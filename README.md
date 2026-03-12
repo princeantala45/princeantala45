@@ -171,7 +171,7 @@ Features
 
 # ⚡ Fun Fact
 
-💡 I scored **100/100 in Python** in my university exam and enjoy turning complex backend logic into simple working solutions.
+💡 I scored **100/100 marks in Python** in university exam and enjoy turning complex backend logic into simple working solutions.
 
 ---
 
