@@ -1,153 +1,106 @@
-<h1 align="center">👋 Hi, I'm Prince Antala</h1>
-<h3 align="center">🚀 Python Backend Developer | Django & REST APIs</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Prince%20Antala&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%26+REST+APIs+Expert;Building+Scalable+Architectures;University+Python+Topper+(100/100)" />
+  </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=princeantala45&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-# 🧑‍💻 About Me
-
-💡 Passionate backend developer who enjoys building **secure and scalable web applications**.
-
-🔹 Backend Developer Intern at **Yellow Panther**  
-🔹 Experienced with **Python, Django, REST APIs, and database design**  
-🔹 Interested in **backend architecture and scalable applications**  
-🔹 Love solving **real-world problems with clean backend logic**
-
-📍 Ahmedabad, Gujarat  
-📧 princeantala45@gmail.com  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=princeantala45&label=Profile%20Views&color=0e75b6&style=flat-square" />
+    <img src="https://img.shields.io/github/followers/princeantala45?label=Follow&style=social" />
+  </p>
+</div>
 
 ---
 
-# 🔗 Connect With Me
+# 🚀 About Me
 
-<p align="left">
-
-<a href="mailto:princeantala45@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prince-antala-158268367">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
-
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <p>💡 <b>Passionate backend developer</b> dedicated to building secure and scalable web ecosystems.</p>
+      <ul>
+        <li>📍 Based in <b>Ahmedabad, Gujarat</b></li>
+        <li>🏢 Backend Intern @ <b>Yellow Panther</b></li>
+        <li>🎓 University Merit Student (23-24, 24-25)</li>
+        <li>⚡ Fun Fact: Scored <b>100/100</b> in Python University Exams</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJndXNidmR2NXN3bm93ZXZ4eW53Z3Z4eW53Z3Z4eW53Z3Z4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/u04b5LggXNo0GbS2uS/giphy.gif" width="250" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 # 🛠 Tech Stack
 
-### Backend
-
+### 💻 Backend & Core
 <p>
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=django" />
-<img src="https://skillicons.dev/icons?i=mysql" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,mysql,java,php,js,html,css&perline=8" />
+  </a>
 </p>
 
-### Programming Languages
-
+### 🔧 Tools & Workflow
 <p>
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=php" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-</p>
-
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  </a>
 </p>
 
 ---
 
-# 💼 Experience
+# 💼 Experience & Projects
 
-### Backend Developer Intern  
-**Yellow Panther**
+### 🏗 **Experience**
+- **Backend Developer Intern | Yellow Panther**
+  - Engineered modules using **Django & REST APIs**.
+  - Optimized database schemas for performance.
+  - Secured applications with robust Auth systems.
 
-✔ Built backend modules using **Django and REST APIs**  
-✔ Designed **relational database schemas**  
-✔ Implemented **secure authentication systems**  
-✔ Optimized API performance and backend logic  
-✔ Collaborated with frontend developers for integration
-
----
-
-# 🚀 Projects
-
-## 🌾 Ikhedut Portal
-Full-Stack Agricultural Trading Platform
-
-- Built using **Python, Django, MySQL**
-- Users can post **agriculture advertisements**
-- Implemented **authentication & admin controls**
-- Designed scalable backend models
+### 🌟 **Featured Projects**
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🌾 Ikhedut Portal** | Agricultural Trading Hub | `Django`, `Python`, `MySQL` |
+| **⚽ Turf Booking** | Real-time Reservation System | `Django REST`, `JavaScript` |
 
 ---
 
-## ⚽ Turf Booking System
-
-Web-based Reservation Platform
-
-- Built **real-time turf booking system**
-- Admin dashboard for **booking management**
-- Authentication system and relational database design
-- Optimized backend logic for smooth performance
-
----
-
-# 🏆 Achievements
-
-🥇 Scored **100/100 in Python** in university exam  
-
-🎓 Certificate of Merit  
-- Academic Year **2023-2024**  
-- Academic Year **2024-2025**
-
----
-
-# 📊 GitHub Statistics (Real)
+# 📊 My GitHub Journey
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=princeantala45&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=princeantala45&theme=tokyonight"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=princeantala45&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeantala45&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" />
 </p>
-
----
-
-# 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeantala45&layout=compact&theme=tokyonight"/>
-
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=princeantala45&theme=tokyo-night&area=true&hide_border=true" />
 </p>
-
----
-
-# 📈 GitHub Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princeantala45&theme=tokyo-night"/>
-
+  <img src="https://streak-stats.demolab.com?user=princeantala45&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 📬 Let's Connect!
 
-💡 I scored **100/100 in Python** in my university exam and enjoy turning complex backend logic into simple, working solutions.
+<div align="center">
+  <a href="mailto:princeantala45@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prince-antala-158268367">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/princeantala45">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
----
+<br />
 
-<p align="center">
-⭐ Open to collaboration on Python, Django, and backend projects
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
+</div>
