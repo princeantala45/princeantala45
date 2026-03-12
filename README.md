@@ -1,19 +1,105 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>I’m currently working as a Backend Developer Intern, where I’m building and improving backend features using Python and Django. My work includes creating REST APIs, handling databases, implementing authentication, and writing clean, structured backend code.<br><br>👯 I’m looking to collaborate on<br><br>I’m looking to collaborate on Python and Django-based projects, especially backend development, REST API creation, and full-stack applications where I can learn from experienced developers and contribute with my backend skills.<br><br>🤝 I’m looking for help with<br><br>I’m looking for help in improving my backend architecture skills, learning best practices for scalable Django applications, and understanding real-world API optimization and deployment.<br><br>🌱 I’m currently learning<br><br>I’m currently learning advanced Django concepts, Django REST Framework, API security, and improving my understanding of database design and backend performance optimization.<br><br>💬 Ask me about<br><br>Ask me about Python, Django, Django REST APIs, backend logic, database handling, authentication, and building full-stack web applications.<br><br>⚡ Fun fact<br><br>I scored 100/100 in Python in my university exam and enjoy turning complex backend logic into simple, working solutions.
+# 👋 Hi, I'm Prince Antala
 
+🚀 Backend Developer | Python & Django Enthusiast  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prince-antala-158268367) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princeantala45@gmail.com)
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=princeantala45&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=princeantala45&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeantala45&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build **secure, scalable backend systems and REST APIs** using Python and Django. I enjoy turning complex backend logic into clean, efficient solutions and collaborating on real-world web applications.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=princeantala45&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🔭 Currently working as a **Backend Developer Intern at Yellow Panther**  
+💻 Building backend systems with **Python, Django, and REST APIs**  
+🌱 Learning **Advanced Django, API security, and scalable backend architecture**  
+🎯 Passionate about solving real-world problems using clean backend logic  
+
+📍 Ahmedabad, Gujarat  
+📧 princeantala45@gmail.com  
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Prince%20Antala-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prince-antala-158268367)
+
+[![Email](https://img.shields.io/badge/Email-princeantala45%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:princeantala45@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django%20REST%20Framework-red?style=for-the-badge&logo=django)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+# 💼 Professional Experience
+
+### Backend Developer Intern  
+**Yellow Panther**  
+📅 Dec 2025 – Present  
+
+- Built and maintained backend features using **Django and REST APIs**
+- Designed relational database schemas
+- Implemented **secure authentication and role-based access**
+- Optimized API request–response handling
+- Collaborated with frontend developers for production-ready modules
+
+---
+
+# 🚀 Projects
+
+## 🌾 Ikhedut Portal  
+Full-Stack Agricultural Guidance and Trading Platform  
+
+- Developed using **Django, Python, and MySQL**
+- Implemented **user authentication and admin control**
+- Designed structured database models
+- Built features for **agricultural advertisements and trading**
+
+---
+
+## ⚽ Turf Booking System  
+Web-based Reservation and Management Platform  
+
+- Developed a **real-time turf booking system**
+- Built an **admin dashboard for booking management**
+- Implemented authentication and relational database design
+- Ensured efficient backend logic and smooth operations
+
+---
+
+# 🏆 Achievements
+
+🥇 **Scored 100/100 in Python** in university exam  
+
+🎓 **Certificate of Merit – Academic Excellence**
+- Academic Year 2023–2024
+- Academic Year 2024–2025
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=princeantala45&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=princeantala45&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princeantala45&theme=tokyonight&hide_border=false&layout=compact)
+
+---
+
+# 📈 GitHub Activity Graph
+
+[![Prince's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=princeantala45&theme=tokyo-night)](https://github.com/princeantala45)
+
+---
+
+⭐ *Always open to collaborating on Python, Django, and backend projects.*
