@@ -1,13 +1,9 @@
-<!-- PROFILE HEADER -->
-
 <h1 align="center">Hi 👋, I'm Prince Antala</h1>
 
 <h3 align="center">🚀 Python Backend Developer | Django & REST APIs</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+REST+API+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+REST+API+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
@@ -19,12 +15,12 @@
 💡 Passionate backend developer who enjoys building **secure and scalable web applications**
 
 🔹 Backend Developer Intern at **Yellow Panther**  
-🔹 Strong experience with **Python, Django, REST APIs**  
-🔹 Interested in **backend architecture & performance optimization**  
-🔹 Love solving **real-world problems with clean backend logic**
+🔹 Experienced with **Python, Django, REST APIs**  
+🔹 Interested in **backend architecture and scalable systems**  
+🔹 Love solving **real-world problems using clean backend logic**
 
 📍 Ahmedabad, Gujarat  
-📧 princeantala45@gmail.com
+📧 **princeantala45@gmail.com**
 
 ---
 
@@ -48,7 +44,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,mysql,java,php,javascript,html,css&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,php,java,javascript,html,css&perline=8" />
 
 </p>
 
@@ -61,7 +57,7 @@
 ✔ Built backend modules using **Django & REST APIs**  
 ✔ Designed scalable **database schemas**  
 ✔ Implemented **secure authentication systems**  
-✔ Optimized backend request-response performance  
+✔ Optimized API request-response performance  
 ✔ Collaborated with frontend teams to deliver production modules
 
 ---
@@ -70,9 +66,15 @@
 
 ## 🌾 Ikhedut Portal
 
-Full-Stack Agricultural Trading Platform
+Full-Stack Agricultural Trading Platform built using **Python, Django, and MySQL**
 
-⚡ Built with **Django + MySQL**
+### 🔗 Live Project
+
+<p align="left">
+<a href="https://ikhedut-portal.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-Ikhedut%20Portal-success?style=for-the-badge&logo=django"/>
+</a>
+</p>
 
 Features
 
@@ -85,16 +87,22 @@ Features
 
 ## ⚽ Turf Booking System
 
-Web-based Reservation Platform
+Web-based Reservation Platform built using **PHP, MySQL, HTML, CSS, JavaScript**
 
-⚡ Built with **Python Django**
+### 🔗 Live Project
+
+<p align="left">
+<a href="https://turfbookingsystem.ct.ws/" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-Turf%20Booking%20System-blue?style=for-the-badge&logo=php"/>
+</a>
+</p>
 
 Features
 
 - Real-time turf booking  
 - Admin dashboard  
 - Secure login authentication  
-- Optimized backend logic
+- Efficient booking management system
 
 ---
 
@@ -104,8 +112,8 @@ Features
 
 🎓 **Certificate of Merit**
 
-- Academic Year 2023–2024  
-- Academic Year 2024–2025
+- Academic Year **2023 – 2024**  
+- Academic Year **2024 – 2025**
 
 ---
 
@@ -169,6 +177,6 @@ Features
 
 <p align="center">
 
-⭐ Open to collaboration on **Python, Django, and Backend Projects**
+⭐ Open to collaboration on **Python, Django, REST APIs, and Backend Projects**
 
 </p>
