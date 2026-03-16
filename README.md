@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Python Backend Developer | Django & REST APIs</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+REST+API+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=#FF4D4D&center=true&vCenter=true&width=600&lines=Python+Backend+Developer;Django+REST+API+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
