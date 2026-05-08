@@ -71,7 +71,7 @@ Full-Stack Agricultural Trading Platform built using **Python, Django, and MySQL
 ### 🔗 Live Project
 
 <p align="left">
-<a href="https://ikhedut-portal.onrender.com/" target="_blank">
+<a href="https://ikhedut-gujarat-gov-in.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/Live%20Demo-Ikhedut%20Portal-success?style=for-the-badge&logo=django"/>
 </a>
 </p>
